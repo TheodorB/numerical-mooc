@@ -1,3 +1,5 @@
+﻿Theodor Bughici
+
 #Practical Numerical Methods with Python
 
 This project started in 2014 as a multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. In its first run (Fall 2014), we had three sites participating:
